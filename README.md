@@ -1,3 +1,7 @@
+# Bedbeans
+For hosting your cross-platform beans.
+Everything is the same as paper except some configurations are different to accomodate the bedrock side of things.
+
 Paper [![Build Status](https://papermc.io/ci/job/Paper-1.15/badge/icon)](https://papermc.io/ci/job/Paper-1.15/)
 ===========
 
